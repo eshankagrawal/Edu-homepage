@@ -1,0 +1,230 @@
+body{
+  font-family: 'Montserrat';
+}
+
+.txt-1{
+  margin-top: 10%;
+}
+
+#features{
+  padding: 7% 7%;
+  text-align: center;
+}
+
+h1{
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  text-align: center;
+}
+h6{
+
+  text-align: center;
+  margin: 5% 0 0 15%;
+  font-weight:normal;
+  font-size: 15px;
+  padding: 0;
+}
+
+.container-fluid{
+  padding: 1% 3%;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.doubt-button{
+  margin: 5% 0 0 40%;
+}
+
+span{
+  color: 	#00008B;
+}
+
+.imge-1{
+  width: 80%;
+  padding: 10px;
+  margin: 0 0 0 8%;
+}
+
+.imge-2{
+     width: 85%;
+     border-radius: 100%;
+     border: 1px solid grey ;
+}
+
+.text-1{
+  font-size: 3rem;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+.re{
+  margin-left: 4%;
+}
+
+p{
+  color: grey;
+  padding: 5px;
+}
+
+.ct-2{
+padding-left: 15%;
+margin-top: 5%;
+}
+
+.work-text
+{
+    text-align: center;
+    color: 	#00008B;
+}
+
+.icon-1{
+  margin: 40% 0 0 60%;
+  width: 5%;
+}
+
+.btn-2{
+  border-radius: 15px;
+  margin-top: 3%;
+  margin-left: 35%;
+}
+
+.btn-3
+{
+  margin-top: 1%;
+  margin-left: 42%;
+}
+
+#live-class{
+  margin: 5% 5%;
+}
+
+#neet{
+  margin: 7% 15%;
+}
+
+#jee{
+    margin: 7% 15%;
+}
+
+.carousel-indicators li {
+ width: 15px;
+ height: 1%;
+ border-radius: 50%;
+ background:  grey;
+}
+
+.carousel-indicators .active{
+    background-color: #00008B;
+}
+
+.t-4{
+  color:  	#00008B;
+  font-size: 40px;
+  text-align: center;
+}
+
+.row-1{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.vid-hold{
+  padding-top: 10%;
+  padding-left: 12%;
+
+}
+
+.imeg-4{
+  width: 80%;
+  position: relative;
+}
+
+.img-5{
+  width: 80%;
+  margin-bottom: 15%;
+}
+
+#books{
+  margin: 7% 15%;
+  text-align: center;
+}
+
+#subject{
+  margin: 7% 15%;
+}
+
+#stateboard{
+  margin: 7% 15%;
+  text-align: center;
+}
+
+.live-text{
+font-size: 50px;
+}
+
+.txt-8{
+  margin-top: 5%;
+}
+
+.t-7{
+  margin-left:  5%;
+}
+
+.view{
+margin-left: 945px;
+}
+
+a{
+  color: red;
+}
+
+.col-st{
+  margin: 1%;
+}
+
+#footer{
+  text-align: center;
+  padding :5% 0 5% 0;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+.bk-txt{
+  padding: 5% 15% 5% 15%;
+}
+.parent{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.play{
+  position: absolute;
+  width: 10%;
+  top: 180px;
+  left: 300px;
+}
+.play1{
+  position: absolute;
+  width: 10%;
+  top: 160px;
+  left: 270px;
+}
